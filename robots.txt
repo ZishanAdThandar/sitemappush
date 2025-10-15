@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-
+Sitemap: https://zishanadthandar.github.io/sitemappush/sitemap.xml
 Sitemap: https://zishanadthandar.github.io/sitemap.xml
 
